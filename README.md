@@ -46,6 +46,13 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 
 ![Imagen de Venon](https://github.com/AlbertoDeSantos/ASIX1-AprendizajeMarkdown/blob/main/venom.jpg "Titulo opcional")
 
+|Titulo 1 | Titulo 2 | Titulo 3 |
+|----------|:--------------:|--------------:|
+|SMX2 |Curso 2324|25|
+|**ASIX1**|Curso 2425|33|
+|DAW2|Curso 2425|32|
+
+
 
 
 
