@@ -44,7 +44,7 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 
 ### Como poner una imagen
 
-![Imagen de Venon](C:\repositorios\ASIX1-AprendizajeMarkdown "Titulo opcional")
+![Imagen de Venon](https://github.com/AlbertoDeSantos/ASIX1-AprendizajeMarkdown/blob/main/venom.jpg "Titulo opcional")
 
 
 
